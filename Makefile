@@ -1,7 +1,7 @@
 # Edit this with your compiler's path:
 MSP430_TI = /root/ti/msp430-gcc
 
-SUBDIRS = drivers modules
+SUBDIRS = drivers modules simpliciti
 
 include Common.mk
 
